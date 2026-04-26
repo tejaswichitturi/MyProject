@@ -4,4 +4,4 @@ worked on Full Stack Development using J2EE and Web 2.0 technologies. Gained han
 oping web application modules, integrating frontend and backend components, and working with databases while
 following industry standard software development practices. 
  
- 
+ rinl
